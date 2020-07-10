@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Downloads\BTVN-Tuan9\BTVN-Tuan9\GUI\2001170836_PhamVanLeBao\bin\Debug\2001170836_PhamVanLeBao.exe.config
+C:\Users\Lenovo\Downloads\BTVN-Tuan9\BTVN-Tuan9\GUI\2001170836_PhamVanLeBao\bin\Debug\2001170836_PhamVanLeBao.exe
+C:\Users\Lenovo\Downloads\BTVN-Tuan9\BTVN-Tuan9\GUI\2001170836_PhamVanLeBao\bin\Debug\2001170836_PhamVanLeBao.pdb
+C:\Users\Lenovo\Downloads\BTVN-Tuan9\BTVN-Tuan9\GUI\2001170836_PhamVanLeBao\bin\Debug\BLL_DAL.dll
+C:\Users\Lenovo\Downloads\BTVN-Tuan9\BTVN-Tuan9\GUI\2001170836_PhamVanLeBao\bin\Debug\ThietKeControl.dll
+C:\Users\Lenovo\Downloads\BTVN-Tuan9\BTVN-Tuan9\GUI\2001170836_PhamVanLeBao\bin\Debug\BLL_DAL.pdb
+C:\Users\Lenovo\Downloads\BTVN-Tuan9\BTVN-Tuan9\GUI\2001170836_PhamVanLeBao\bin\Debug\BLL_DAL.dll.config
+C:\Users\Lenovo\Downloads\BTVN-Tuan9\BTVN-Tuan9\GUI\2001170836_PhamVanLeBao\bin\Debug\ThietKeControl.pdb
+C:\Users\Lenovo\Downloads\BTVN-Tuan9\BTVN-Tuan9\GUI\2001170836_PhamVanLeBao\obj\Debug\2001170836_PhamVanLeBao.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\BTVN-Tuan9\BTVN-Tuan9\GUI\2001170836_PhamVanLeBao\obj\Debug\_2001170836_PhamVanLeBao.Form1.resources
+C:\Users\Lenovo\Downloads\BTVN-Tuan9\BTVN-Tuan9\GUI\2001170836_PhamVanLeBao\obj\Debug\_2001170836_PhamVanLeBao.Form2.resources
+C:\Users\Lenovo\Downloads\BTVN-Tuan9\BTVN-Tuan9\GUI\2001170836_PhamVanLeBao\obj\Debug\_2001170836_PhamVanLeBao.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\BTVN-Tuan9\BTVN-Tuan9\GUI\2001170836_PhamVanLeBao\obj\Debug\2001170836_PhamVanLeBao.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\BTVN-Tuan9\BTVN-Tuan9\GUI\2001170836_PhamVanLeBao\obj\Debug\2001170836_PhamVanLeBao.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\BTVN-Tuan9\BTVN-Tuan9\GUI\2001170836_PhamVanLeBao\obj\Debug\2001170836_PhamVanLeBao.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\BTVN-Tuan9\BTVN-Tuan9\GUI\2001170836_PhamVanLeBao\obj\Debug\2001170836_PhamVanLeBao.exe
+C:\Users\Lenovo\Downloads\BTVN-Tuan9\BTVN-Tuan9\GUI\2001170836_PhamVanLeBao\obj\Debug\2001170836_PhamVanLeBao.pdb

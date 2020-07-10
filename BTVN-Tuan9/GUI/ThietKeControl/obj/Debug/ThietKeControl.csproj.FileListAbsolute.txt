@@ -1,0 +1,7 @@
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\BTVN-Tuan9\GUI\ThietKeControl\bin\Debug\ThietKeControl.dll
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\BTVN-Tuan9\GUI\ThietKeControl\bin\Debug\ThietKeControl.pdb
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\BTVN-Tuan9\GUI\ThietKeControl\obj\Debug\ThietKeControl.csproj.CoreCompileInputs.cache
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\BTVN-Tuan9\GUI\ThietKeControl\obj\Debug\ThietKeControl.dll
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\BTVN-Tuan9\GUI\ThietKeControl\obj\Debug\ThietKeControl.pdb
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\BTVN-Tuan9\GUI\ThietKeControl\obj\Debug\ThietKeControl.tbHoVaChuLot.resources
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\BTVN-Tuan9\GUI\ThietKeControl\obj\Debug\ThietKeControl.csproj.GenerateResource.cache
